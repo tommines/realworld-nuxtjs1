@@ -1,5 +1,6 @@
 <template>
   <div class="profile-page">
+
   <div class="user-info">
     <div class="container">
       <div class="row">
@@ -157,7 +158,7 @@ export default {
 
     const getArticle = tab === 'my_articles'
     ? { author: username }
-    : { favorited: username }
+    : { favorited: true }
 
     const [profiles, articlesp] = await Promise.all([
       getProfiles(username), getArticles(getArticle)
