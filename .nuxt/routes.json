@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "E:\\\\lagouwebstudy\\\\part3\\\\03-03\\\\03-03-study-materials\\\\code\\\\3-3-4-1-nuxtjs综合案例\\\\realworld-nuxtjsf\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "E:\\\\lagouwebstudy\\\\part3\\\\03-03\\\\03-03-study-materials\\\\code\\\\3-3-4-1-nuxtjs综合案例\\\\realworld-nuxtjsf\\\\pages\\\\home",
+        "_name": "_5d4fdb6c"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "E:\\\\lagouwebstudy\\\\part3\\\\03-03\\\\03-03-study-materials\\\\code\\\\3-3-4-1-nuxtjs综合案例\\\\realworld-nuxtjsf\\\\pages\\\\login",
+        "_name": "_4ce3da7c"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "E:\\\\lagouwebstudy\\\\part3\\\\03-03\\\\03-03-study-materials\\\\code\\\\3-3-4-1-nuxtjs综合案例\\\\realworld-nuxtjsf\\\\pages\\\\login",
+        "_name": "_4ce3da7c"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "E:\\\\lagouwebstudy\\\\part3\\\\03-03\\\\03-03-study-materials\\\\code\\\\3-3-4-1-nuxtjs综合案例\\\\realworld-nuxtjsf\\\\pages\\\\profile",
+        "_name": "_7c7dfbfc"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "E:\\\\lagouwebstudy\\\\part3\\\\03-03\\\\03-03-study-materials\\\\code\\\\3-3-4-1-nuxtjs综合案例\\\\realworld-nuxtjsf\\\\pages\\\\settings",
+        "_name": "_b6fcd7a0"
+      },
+      {
+        "path": "/editor/:slug?",
+        "name": "editor",
+        "component": "E:\\\\lagouwebstudy\\\\part3\\\\03-03\\\\03-03-study-materials\\\\code\\\\3-3-4-1-nuxtjs综合案例\\\\realworld-nuxtjsf\\\\pages\\\\editor",
+        "_name": "_430b98ba"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "E:\\\\lagouwebstudy\\\\part3\\\\03-03\\\\03-03-study-materials\\\\code\\\\3-3-4-1-nuxtjs综合案例\\\\realworld-nuxtjsf\\\\pages\\\\article",
+        "_name": "_63483f49"
+      }
+    ],
+    "_name": "_4eda7277"
+  }
+]
